@@ -1,0 +1,51 @@
+name: kemet_app
+description: Kemet Greenhouse Management App
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase Core & Auth
+  firebase_core: ^3.0.0
+  firebase_auth: ^5.0.0
+  firebase_database: ^11.0.0
+
+  # Gemini AI Integration
+  google_generative_ai: ^0.4.0
+
+  # Environment variables for API Keys
+  flutter_dotenv: ^5.1.0
+
+  # UI & Charts
+  fl_chart: ^0.68.0
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  # Step 4: For the app icon generation
+  flutter_launcher_icons: ^0.14.0
+
+flutter:
+  uses-material-design: true
+
+  # Step 5: Required Assets (Environment and Icons)
+  assets:
+    - .env
+    - assets/icon/
+
+# Step 4 Configuration: Icon Generator Settings
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/app_icon.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#1B5E20"
+  adaptive_icon_foreground: "assets/icon/app_icon.png"

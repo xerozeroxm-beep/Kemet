@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "881171704502",
+    "firebase_url": "https://iot-uni-17ac1-default-rtdb.firebaseio.com",
+    "project_id": "iot-uni-17ac1",
+    "storage_bucket": "iot-uni-17ac1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881171704502:android:fba422e74a35e8486b9417",
+        "android_client_info": {
+          "package_name": "com.example.greenhouseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881171704502-sfsbliokhqk8b9dag1elvkf6dl7hau6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjUcyZCQN7qjJJbtYRjgqZ-CvDIwLWpFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881171704502-sfsbliokhqk8b9dag1elvkf6dl7hau6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881171704502-6m17old8iofb82craof3oc8erup29ioc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kemetFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881171704502:android:7803001ee95ddb6d6b9417",
+        "android_client_info": {
+          "package_name": "com.example.kemet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881171704502-sfsbliokhqk8b9dag1elvkf6dl7hau6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjUcyZCQN7qjJJbtYRjgqZ-CvDIwLWpFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881171704502-sfsbliokhqk8b9dag1elvkf6dl7hau6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881171704502-6m17old8iofb82craof3oc8erup29ioc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kemetFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881171704502:android:03c5e59fb36152b66b9417",
+        "android_client_info": {
+          "package_name": "com.example.kemet_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881171704502-pef78argcq2kbsthj6t9532csejl9kkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kemet_flutter_app",
+            "certificate_hash": "e27ca386da6c5ffdb39e4bae9817e35b6b423889"
+          }
+        },
+        {
+          "client_id": "881171704502-sfsbliokhqk8b9dag1elvkf6dl7hau6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjUcyZCQN7qjJJbtYRjgqZ-CvDIwLWpFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881171704502-sfsbliokhqk8b9dag1elvkf6dl7hau6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881171704502-6m17old8iofb82craof3oc8erup29ioc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kemetFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
